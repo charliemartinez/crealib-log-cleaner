@@ -4,8 +4,6 @@
 **Licencia / License:** GPLv2.0  
 **Compatible OS:** Debian y derivadas
 
-![log-cleaner](https://github.com/user-attachments/assets/placeholder-log-cleaner)
-
 ---
 ![Contributors](https://img.shields.io/github/contributors/charliemartinez/crealib-log-cleaner) ![Stars](https://img.shields.io/github/stars/charliemartinez/crealib-log-cleaner?style=flat) ![Forks](https://img.shields.io/github/forks/charliemartinez/crealib-log-cleaner?style=flat) ![Issues](https://img.shields.io/github/issues/charliemartinez/crealib-log-cleaner) ![Last Commit](https://img.shields.io/github/last-commit/charliemartinez/crealib-log-cleaner) ![Activity](https://img.shields.io/github/commit-activity/m/charliemartinez/crealib-log-cleaner) ![Repo Size](https://img.shields.io/github/repo-size/charliemartinez/crealib-log-cleaner?style=flat) ![Lenguaje](https://img.shields.io/badge/Lenguaje-Bash-blue)
 ---
